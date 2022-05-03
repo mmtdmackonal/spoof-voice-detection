@@ -3,8 +3,9 @@
 This is a Spoofed Speech Detection app which predicts whether the speech is spoofed or not by analyzing the input audio of human voice.
 
 # Instructions to Run
-
-- Download the weights from the following link and put it in weights directory
+-Create a directory called weights.
+-create directory called temp.
+- Download the weights from the following link and put it in weights directory.
 
   [LINK](https://drive.google.com/file/d/1M12zrrtIgIWa_dwZwft8plPGoKBsS0h_/view?usp=sharing)
 
